@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Virat Kohli Profile</title>
+</head>
+<body>
+	<h1>Virat Kohli</h1>
+	<img src="https://cdn.britannica.com/25/188425-050-1D16E923/Virat-Kohli-2019.jpg" alt="Virat Kohli">
+	<p>Virat Kohli is an Indian cricketer and former captain of the Indian national team. He is considered one of the best batsmen in the world and has numerous records to his name. Kohli has received several awards for his performance on the cricket field.</p>
+	<h2>Personal Information</h2>
+	<ul>
+		<li>Full Name: Virat Kohli</li>
+		<li>Date of Birth: November 5, 1988</li>
+		<li>Place of Birth: Delhi, India</li>
+		<li>Height: 5'9" (1.75 m)</li>
+		<li>Role: Batsman</li>
+		<li>Batting Style: Right-hand bat</li>
+		<li>Bowling Style: Right-arm medium</li>
+	</ul>
+	<h2>Records</h2>
+	<ul>
+		<li>Fastest century by an Indian in ODIs (52 balls)</li>
+		<li>Fastest player to reach 10,000 runs in ODIs (205 innings)</li>
+		<li>Most runs by an Indian in a single IPL season (973 runs in 2016)</li>
+		<li>Most centuries as an Indian captain in ODIs (12)</li>
+	</ul>
+</body>
+</html>
